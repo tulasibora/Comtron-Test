@@ -1,0 +1,33 @@
+.maindiv {
+  margin-left: 5%;
+  text-align: center;
+  border: 2px;
+}
+input {
+  padding: 10px;
+  border-radius: 10px;
+}
+.head {
+  margin-left: -25%;
+}
+select {
+  padding: 10px;
+  border-radius: 10px;
+  width: 190px;
+}
+.inp1 {
+  margin-left: -25%;
+}
+.inpdiv {
+  padding: 30px;
+}
+.check {
+  height: 10px;
+  width: 10px;
+}
+.inp {
+  margin-left: -25%;
+}
+.heddiv {
+  margin-bottom: 10%;
+}

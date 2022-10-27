@@ -1,0 +1,24 @@
+.maindiv {
+  margin-left: 5%;
+  text-align: center;
+  border: 2px;
+  margin-top: 10%;
+}
+input {
+  padding: 10px;
+  border-radius: 10px;
+}
+.head {
+  margin-left: -25%;
+}
+select {
+  padding: 10px;
+  border-radius: 10px;
+  width: 190px;
+}
+.inp1 {
+  margin-left: -25%;
+}
+.inpdiv {
+  padding: 30px;
+}
